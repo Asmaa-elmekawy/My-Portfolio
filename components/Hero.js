@@ -23,7 +23,7 @@ function Hero() {
           transition={{ duration: 1 }}
           className="text-7xl font-bold mb-2"
         >
-          Hi, I'm Asmaa
+          Hi, I&apos;m Asmaa
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, x: -100 }}
