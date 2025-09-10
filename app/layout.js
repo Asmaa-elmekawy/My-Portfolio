@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Asmaa_Elmekawy",
+  title: "Asmaa Elmekawy",
   description:
     "Asmaa Elmekawy - Front-End Developer skilled in React.js, Next.js, and Tailwind CSS. Explore my projects, skills, and experience in web development.",
   icons: {
