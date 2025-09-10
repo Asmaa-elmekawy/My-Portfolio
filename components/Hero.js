@@ -60,7 +60,7 @@ function Hero() {
               className="text-[#c3995b] hover:brightness-65 text-3xl"
             />
           </a>
-          <a href="https://wa.me/01090406152" target="_blank">
+          <a href="https://wa.me/201090406152" target="_blank">
             <FontAwesomeIcon
               icon={faWhatsapp}
               className="text-[#c3995b] hover:brightness-65 text-3xl"
