@@ -29,6 +29,30 @@ export default function RootLayout({ children }) {
           name="google-site-verification"
           content="vNaPFN_Mxk19tkqR0By3GAdx1fUEyBivGKopDr-fZaU"
         />
+        <meta
+          name="description"
+          content="Asmaa Elmekawy - Frontend Developer skilled in React, Next.js, Tailwind CSS. Explore my portfolio and projects."
+        />
+        <meta
+          name="keywords"
+          content="Asmaa Elmekawy, Frontend Developer, React, Next.js, Portfolio"
+        />
+        <meta name="author" content="Asmaa Elmekawy" />
+        {/* social preview */}
+        <meta
+          property="og:title"
+          content="Asmaa Elmekawy | Frontend Developer"
+        />
+        <meta
+          property="og:description"
+          content="Portfolio website showcasing my frontend projects."
+        />
+        <meta property="og:url" content="https://asmaa-portfolio.vercel.app/" />
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content="https://asmaa-portfolio.vercel.app/preview.png"
+        />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
