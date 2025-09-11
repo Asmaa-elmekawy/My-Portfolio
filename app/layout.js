@@ -47,11 +47,11 @@ export default function RootLayout({ children }) {
           property="og:description"
           content="Portfolio website showcasing my frontend projects."
         />
-        <meta property="og:url" content="https://asmaa-portfolio.vercel.app/" />
+        <meta property="og:url" content="https://asmaaelmekawy.vercel.app/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://asmaa-portfolio.vercel.app/preview.png"
+          content="https://asmaaelmekawy.vercel.app/preview.png"
         />
       </head>
       <body
